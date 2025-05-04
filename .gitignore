@@ -1,3 +1,7 @@
 .ipynb_checkpoints
 venv
 .DS_Store
+*.txt
+requirements.in
+.gitignore
+.uv.ykmunzybaztmitximoadlmhhrcznxmsl.__relocated__.exe
